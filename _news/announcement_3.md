@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2019-12-15
 inline: true
 ---
-
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I'll be joining [rephrase.ai](https://rephrase.ai) as a Research Intern working on GANs for the next 8 weeks!

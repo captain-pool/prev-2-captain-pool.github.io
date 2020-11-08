@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-11-01
 inline: true
 ---
-
-A simple inline announcement.
+Our work ["TopoSampler: A Topology Constrained Noise Sampling for GANs"](http://openreview.net/forum?id=OTxZfmVFlTO) got accepted for **spotlight** presentation at [Workshop on Topological Data Analysis and Beyond](http://tda-in-ml.github.io)
