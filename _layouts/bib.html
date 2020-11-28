@@ -107,6 +107,12 @@
       <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Slides</a>
       {% endif %}
     {% endif %}
+    {% if entry.spotlighttalk %}
+      <a href="{{ entry.spotlighttalk }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Spotlight Talk</a>
+    {% endif %}
+    {% if entry.talk %}
+      <a href="{{ entry.talk }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Talk</a>
+    {% endif %}
     {% if entry.spotlight %}
       {% if entry.spotlight contains '://' %}
       <a href="{{ entry.spotlight }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Spotlight Slides</a>
