@@ -56,9 +56,9 @@ contact_note: >
 # Blog
 # -----------------------------------------------------------------------------
 
-  #blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-  #blog_description: a simple whitespace theme for academics
-  #permalink: /blog/:year/:title/
+blog_name: pool-writes  # your blog must have a name for it to show up in the nav bar
+blog_description: My takes on papers, theorems and ideas I find interesting. 
+permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
@@ -81,7 +81,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 5
+news_limit: 10
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
