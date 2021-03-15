@@ -24,10 +24,9 @@ Although I'm very much interested in almost all of machine learning research, yo
 
 ### Research Interests
 
-- Generative Models
-- Variational Methods
-- Manifold Learning
 - Geometric Deep Learning
-- Deep Learning Theory
+- Topological Data Analysis
+- Generative Models
+- Implicit Deep Learning
 
 You can find CV [Here](./assets/pdf/Research%20Resume.pdf). If there's something I can help you about, or if you want to have an awesome discussion on some interesting research topic, do feel free to drop me a 📨 @ <rickdey1998@gmail.com>
