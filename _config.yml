@@ -102,7 +102,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ['_pages']
+include: ['_pages', '_shortner']
 exclude: [vendor]
 
 # Plug-ins
@@ -113,6 +113,7 @@ plugins:
   - jekyll/scholar
   - jekyll-twitter-plugin
   - jemoji
+  - jekyl-redirect-from
   # - bootstrap
   # - material-sass
 
