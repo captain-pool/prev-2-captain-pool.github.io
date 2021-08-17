@@ -102,7 +102,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ['_pages', '_shortner']
+include: ['_pages', '_shortener']
 exclude: [vendor]
 
 # Plug-ins
