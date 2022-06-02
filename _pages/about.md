@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Machine Learning Engineer at [Weights and Biases](https://wandb.ai). I recieved my Bachelor's Degree in Computer Science and Engineering from [Netaji Subhash Engineering College](https://nsec.ac.in). Currently, I am based out of [Kolkata](https://goo.gl/maps/JezzqBHDZnpeonq5A). I'm also an independent researcher, interested in exploring complicated problems in geometric and topological data processing.
+I'm an incoming CS PhD student at Boston University advised by [Prof. Edward Chien](https://www.bu.edu/cs/profiles/edchien/). I recieved my Bachelor's Degree in Computer Science and Engineering from [Netaji Subhash Engineering College](https://nsec.ac.in). Currently, I am based out of [Kolkata](https://goo.gl/maps/JezzqBHDZnpeonq5A). I'm also an independent researcher, interested in exploring complicated problems in geometric and topological data processing.
 
 When I'm not working, you can find me flying ✈️  in Microsoft Flight Simulator.
 
